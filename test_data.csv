@@ -1,0 +1,436 @@
+,System,Organ/Component,Category/Type,Condition/Symptom,Count
+0,Cardiovascular System,Blood,Abnomalities in the blood,Anemia,26
+1,Cardiovascular System,Blood,Abnomalities in the blood,Antithrombin Deficiency,3
+2,Cardiovascular System,Blood,Abnomalities in the blood,Elevated Anion Gap,1
+3,Cardiovascular System,Blood,Abnomalities in the blood,Elevated FDP,9
+4,Cardiovascular System,Blood,Abnomalities in the blood,Elevated Ferritin,3
+5,Cardiovascular System,Blood,Abnomalities in the blood,Elevated TAT complex,1
+6,Cardiovascular System,Blood,Abnomalities in the blood,Eosinopenia,1
+7,Cardiovascular System,Blood,Abnomalities in the blood,Eosinophilia,1
+8,Cardiovascular System,Blood,Abnomalities in the blood,Erythrocytosis / Polycythemia,25
+9,Cardiovascular System,Blood,Abnomalities in the blood,Hemoconcentration,3
+10,Cardiovascular System,Blood,Abnomalities in the blood,Hyperammonemia,2
+11,Cardiovascular System,Blood,Abnomalities in the blood,Hypercapnia,10
+12,Cardiovascular System,Blood,Abnomalities in the blood,Hyperfibrinogenemia,5
+13,Cardiovascular System,Blood,Abnomalities in the blood,Hyperglycemia,37
+14,Cardiovascular System,Blood,Abnomalities in the blood,Hyperosmolality,3
+15,Cardiovascular System,Blood,Abnomalities in the blood,Hyperoxia,22
+16,Cardiovascular System,Blood,Abnomalities in the blood,Hyperproteinemia,9
+17,Cardiovascular System,Blood,Abnomalities in the blood,Hyperuricemia,17
+18,Cardiovascular System,Blood,Abnomalities in the blood,Hypocapnia,39
+19,Cardiovascular System,Blood,Abnomalities in the blood,Hypofibrinogenemia,35
+20,Cardiovascular System,Blood,Abnomalities in the blood,Hypoglycaemia,14
+21,Cardiovascular System,Blood,Abnomalities in the blood,Hypoproteinemia,6
+22,Cardiovascular System,Blood,Abnomalities in the blood,Hypoprothrombinaemia,1
+23,Cardiovascular System,Blood,Abnomalities in the blood,Hypoxemia,26
+24,Cardiovascular System,Blood,Abnomalities in the blood,Leukocytosis,114
+25,Cardiovascular System,Blood,Abnomalities in the blood,Leukopenia,7
+26,Cardiovascular System,Blood,Abnomalities in the blood,Low Initial INR,38
+27,Cardiovascular System,Blood,Abnomalities in the blood,Low Peak INR,10
+28,Cardiovascular System,Blood,Abnomalities in the blood,Lymphocytopenia,2
+29,Cardiovascular System,Blood,Abnomalities in the blood,Lymphocytosis,2
+30,Cardiovascular System,Blood,Abnomalities in the blood,Monocytosis,2
+31,Cardiovascular System,Blood,Abnomalities in the blood,Neutropenia,2
+32,Cardiovascular System,Blood,Abnomalities in the blood,Neutrophilia,11
+33,Cardiovascular System,Blood,Abnomalities in the blood,Pleocytosis,1
+34,Cardiovascular System,Blood,Abnomalities in the blood,Respiratory acidosis,41
+35,Cardiovascular System,Blood,Abnomalities in the blood,Respiratory alkalosis,10
+36,Cardiovascular System,Blood,Abnomalities in the blood,Thrombocytopenia,83
+37,Cardiovascular System,Blood,Abnomalities in the blood,Thrombocytosis,1
+38,Cardiovascular System,Blood,Abnomalities in the blood,Uremia,1
+39,Cardiovascular System,Blood,Abnormal Blood Pressure,Diastolic Hypertension,22
+40,Cardiovascular System,Blood,Abnormal Blood Pressure,Diastolic Hypotension,77
+41,Cardiovascular System,Blood,Abnormal Blood Pressure,Elevated CVP,2
+42,Cardiovascular System,Blood,Abnormal Blood Pressure,Elevated oncotic pressure,1
+43,Cardiovascular System,Blood,Abnormal Blood Pressure,Hemodynamic instability,57
+44,Cardiovascular System,Blood,Abnormal Blood Pressure,Hypertension,56
+45,Cardiovascular System,Blood,Abnormal Blood Pressure,Hypotension,93
+46,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Bleeding Disorder / Coagulopathy,54
+47,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Cardiac Thrombi,1
+48,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Coagulative Necrosis,10
+49,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Disseminated Intravascular Coagulation (DIC),89
+50,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Factor V deficiency,2
+51,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Factor VII deficiency,2
+52,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Hemorrhagic diathesis,1
+53,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Hyperfibrinolysis,4
+54,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Prolonged Clotting Time,32
+55,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Reduced Circulation / hemodynamic arrest,1
+56,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Shortened Clot Lysis Time,1
+57,Cardiovascular System,Blood,Bleeding disorder / Coagulopathy,Shortened Clotting Time,7
+58,Cardiovascular System,Blood,Bleeding in the heart,Cardiac hemorrhage,4
+59,Cardiovascular System,Blood,Bleeding in the heart,Epicardial hemorrhage,1
+60,Cardiovascular System,Blood,Bleeding in the heart,Pericardial hemorrhage,1
+61,Cardiovascular System,Blood,Bleeding in the heart,Perivascular hemorrhage,1
+62,Cardiovascular System,Blood,Bleeding in the heart,Petechial haemorrhages,7
+63,Cardiovascular System,Blood,Bleeding in the heart,Subendocardial hemorrhages,7
+64,Cardiovascular System,Blood,Bleeding in the heart,Vascular Adventitial Hemorrhage,1
+65,Cardiovascular System,Blood,Circulatory-related conditions,Circulatory failure,2
+66,Cardiovascular System,Blood,Circulatory-related conditions,Circulatory shock,6
+67,Cardiovascular System,Blood,Circulatory-related conditions,Hypovolaemia,3
+68,Cardiovascular System,Blood,Circulatory-related conditions,Hypovolemic shock,1
+69,Cardiovascular System,Blood,Circulatory-related conditions,Peipheral edema,1
+70,Cardiovascular System,Blood,Circulatory-related conditions,Pericardial effusion,1
+71,Cardiovascular System,Blood,Circulatory-related conditions,Peripheral vasoconstriction,6
+72,Cardiovascular System,Blood,Circulatory-related conditions,Shock (unspecified),17
+73,Cardiovascular System,Blood,Circulatory-related conditions,Thrombophlebitis,1
+74,Cardiovascular System,Blood,Coagulation and Hemostasis Parameters,Modified thrombin clotting time,1
+75,Cardiovascular System,Heart,Abnormal ECG waveforms,Multifocal Ventricular Ectopics (ECG),1
+76,Cardiovascular System,Heart,Abnormal ECG waveforms,Prolonged QTc,2
+77,Cardiovascular System,Heart,Abnormal ECG waveforms,Prominent U-waves,1
+78,Cardiovascular System,Heart,Abnormal ECG waveforms,ST Abnormalities,19
+79,Cardiovascular System,Heart,Abnormal ECG waveforms,T-wave Inversion,6
+80,Cardiovascular System,Heart,Abnormal presentation of the heart,Chest pain,6
+81,Cardiovascular System,Heart,Abnormal presentation of the heart,Chest tightness,1
+82,Cardiovascular System,Heart,Abnormal presentation of the heart,Hypokinesis,5
+83,Cardiovascular System,Heart,Abnormal presentation of the heart,Low LVEF,2
+84,Cardiovascular System,Heart,Abnormal presentation of the heart,Precordial Hyperesthesia,1
+85,Cardiovascular System,Heart,Abnormal presentation of the heart,Reduced global left and right ventricular function,2
+86,Cardiovascular System,Heart,Abnormal presentation of the heart,Right ventricular dilation,1
+87,Cardiovascular System,Heart,Abnormal presentation of the heart,Systolic murmur,1
+88,Cardiovascular System,Heart,Abnormal presentation of the heart,Ventricular hypertrophy,1
+89,Cardiovascular System,Heart,Abnormal presentation of the heart,Weak / Abnormal Heart Sounds,2
+90,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Atrial fibrillation (AFib),1
+91,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Atrial flutter,2
+92,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Bradycardia,6
+93,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Irregular pulse,3
+94,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Mutifocal Ventricular Ectopics,2
+95,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Palpatations,1
+96,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Premature Ventricular Contractions (PVC),1
+97,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Tachycardia,195
+98,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Thready pulse,1
+99,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Ventricular Tachycardia,4
+100,Cardiovascular System,Heart,Abnormal pulse and heartbeats,Ventricular fibrillation (VF),3
+101,Cardiovascular System,Heart,Heart conditions,Cardiac arrest,6
+102,Cardiovascular System,Heart,Heart conditions,Cardiac dysfunction (unspecified),24
+103,Cardiovascular System,Heart,Heart conditions,Cardiac tamponade,1
+104,Cardiovascular System,Heart,Heart conditions,Coronary arteriosclerosis,1
+105,Cardiovascular System,Heart,Heart conditions,Elevated cardiac enzymes,3
+106,Cardiovascular System,Heart,Heart conditions,First Degree Heart Block,1
+107,Cardiovascular System,Heart,Heart conditions,Heart Failure,1
+108,Cardiovascular System,Heart,Heart conditions,Myocardial congestion,1
+109,Cardiovascular System,Heart,Heart conditions,Myocardial edema,1
+110,Cardiovascular System,Heart,Heart conditions,Myocardial fibrosis,1
+111,Cardiovascular System,Heart,Heart conditions,Myocardial hemorrhage,1
+112,Cardiovascular System,Heart,Heart conditions,Myocardial infarction,20
+113,Cardiovascular System,Heart,Heart conditions,Myocardial injury,34
+114,Cardiovascular System,Heart,Heart conditions,Myocardial ischemia,1
+115,Cardiovascular System,Heart,Heart conditions,Myocardial necrosis,14
+116,Cardiovascular System,Heart,Heart conditions,Thrombotic Disorders,24
+117,Central Nervous System,Brain,Blood abnormalities in brain,Cerebral Congestion,6
+118,Central Nervous System,Brain,Blood abnormalities in brain,Cerebral thrombosis,1
+119,Central Nervous System,Brain,Blood abnormalities in brain,Elevated CSF protein,4
+120,Central Nervous System,Brain,Blood abnormalities in brain,Neural thrombi,5
+121,Central Nervous System,Brain,Blood abnormalities in brain,Pituitary Congestion,2
+122,Central Nervous System,Brain,Brain injury,Abnormal MRI Signals,2
+123,Central Nervous System,Brain,Brain injury,Basal Nuclei Hemorrhage,1
+124,Central Nervous System,Brain,Brain injury,Brain hemorrhage,10
+125,Central Nervous System,Brain,Brain injury,Brain lesion,3
+126,Central Nervous System,Brain,Brain injury,Cerebellar hemorrhage,3
+127,Central Nervous System,Brain,Brain injury,Cerebellum atrophy,2
+128,Central Nervous System,Brain,Brain injury,Intracranial hermorrhage,2
+129,Central Nervous System,Brain,Brain injury,Neural injury (unspecified),23
+130,Central Nervous System,Brain,Brain-related conditions,Brain Edema (Unspecified,4
+131,Central Nervous System,Brain,Brain-related conditions,Cerebral Edema,19
+132,Central Nervous System,Brain,Brain-related conditions,Cortex Edema,1
+133,Central Nervous System,Brain,Brain-related conditions,Frontal Edema,1
+134,Central Nervous System,Brain,Brain-related conditions,Parietoccipital Edema,1
+135,Central Nervous System,Brain,Brain-related conditions,Subcortical (white matter regions) Edema,1
+136,Central Nervous System,Brain,Brain-related conditions,Vasogenic Edema,1
+137,Central Nervous System,Brain,Cognitive Disruptions / Impairments,Amnesia,9
+138,Central Nervous System,Brain,Cognitive Disruptions / Impairments,Cognitive Overload / Impairment,2
+139,Central Nervous System,Brain,Cognitive Disruptions / Impairments,Impaired short-term memory,7
+140,Central Nervous System,Brain,Cognitive Disruptions / Impairments,Irrational  Behaviour,19
+141,Central Nervous System,Brain,Cognitive Disruptions / Impairments,"Psychotic manifestations / Psychoneurosis (Invasive dreams, hallucinations)",3
+142,Central Nervous System,Brain,Conciousness State,Altered Conscious State,232
+143,Central Nervous System,Brain,Conciousness State,Conscious State Unknown,35
+144,Central Nervous System,Brain,Conciousness State,Normal Conscious State,81
+145,Central Nervous System,Brain,Conciousness State,Unconscious State,206
+146,Central Nervous System,Brain,Conscious Level,Agitation / Irritability / Aggression,45
+147,Central Nervous System,Brain,Conscious Level,Alert / Aware / Orientated,83
+148,Central Nervous System,Brain,Conscious Level,"Altered consciousness (confusion, stupor, disorientation,drowsiness)",175
+149,Central Nervous System,Brain,Conscious Level,Collapse (Conscious / Conscious State Unknown),207
+150,Central Nervous System,Brain,Conscious Level,Coma,64
+151,Central Nervous System,Brain,Conscious Level,Delirium,24
+152,Central Nervous System,Brain,Conscious Level,Fatigue / Malaise,24
+153,Central Nervous System,Brain,Conscious Level,Hyperarousal,1
+154,Central Nervous System,Brain,Conscious Level,Lethargy,14
+155,Central Nervous System,Brain,Conscious Level,Loss of conciousness / Syncope / Collapse(Unconscious),150
+156,Central Nervous System,Brain,Conscious Level,Near Loss of Consciousness (Presyncope / fainting sensation),18
+157,Central Nervous System,Brain,Conscious Level,Pain response impaired,23
+158,Central Nervous System,Brain,Conscious Level,Restless,5
+159,Central Nervous System,Brain,Conscious Level,Seizure / Convulsion,80
+160,Central Nervous System,Brain,Conscious Level,Status Epilepticus,2
+161,Central Nervous System,Brain,Emotional State,Anxious / Nervous,8
+162,Central Nervous System,Brain,Emotional State,Feeling Fearful,3
+163,Central Nervous System,Brain,Emotional State,Low Mood,2
+164,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Altered gait dispersion,7
+165,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Ataxia / Loss of coordination,49
+166,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Athetotic-extensory movements,1
+167,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Dysmetria,2
+168,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Gait Instability,20
+169,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Impaired Balance,6
+170,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Impaired fine motor skills,1
+171,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Impaired writing,1
+172,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Intention tremor / Cerebellar tremor,1
+173,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Reduced gait variability,8
+174,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,"Slow / Irregular / Impaired speech
+(dysarthria)",23
+175,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Tremour,3
+176,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Unable to stand,4
+177,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Unable to walk,3
+178,Central Nervous System,Brain,Neurological / cerbral dysfunction or impairment,Unspecified Cerebral Dysfunctio,1
+179,Central Nervous System,Brain,Others,Generalized attenuation of background acitivity (EEG),1
+180,Central Nervous System,Brain,Others,Glucose hypometabolism,1
+181,Central Nervous System,Brain,Strokes,Brainstem / thalamus infarcts,1
+182,Central Nervous System,Brain,Strokes,Cerebellar Infarction / Cerebellar Stroke,4
+183,Central Nervous System,Brain,Strokes,Temporal lobe infarction,1
+184,Central Nervous System,Eye,External Eye Appearance and Tissue Abnormalities,Acute Conjunctivitis,1
+185,Central Nervous System,Eye,External Eye Appearance and Tissue Abnormalities,Chemosis,1
+186,Central Nervous System,Eye,External Eye Appearance and Tissue Abnormalities,Glazed eyes,1
+187,Central Nervous System,Eye,External Eye Appearance and Tissue Abnormalities,Icteric sclera,2
+188,Central Nervous System,Eye,External Eye Appearance and Tissue Abnormalities,Pale conjunctiva,1
+189,Central Nervous System,Eye,External Eye Appearance and Tissue Abnormalities,Periorbital ecchymosis,2
+190,Central Nervous System,Eye,External Eye Appearance and Tissue Abnormalities,Subconjunctival hemorrhage,1
+191,Central Nervous System,Eye,Internal Eye Abnormalities,Bilateral fungal oculitis,1
+192,Central Nervous System,Eye,Internal Eye Abnormalities,Blurred Optic Discs / Papilledema,1
+193,Central Nervous System,Eye,Internal Eye Abnormalities,Corneal hemorrhage,2
+194,Central Nervous System,Eye,Internal Eye Abnormalities,Retinal hemorrhages,1
+195,Central Nervous System,Eye,Pupil Abnormalities,Constricted Pupils,1
+196,Central Nervous System,Eye,Pupil Abnormalities,Contracted pupils,3
+197,Central Nervous System,Eye,Pupil Abnormalities,Deviated pupils,2
+198,Central Nervous System,Eye,Pupil Abnormalities,Dilated pupil,6
+199,Central Nervous System,Eye,Pupil Abnormalities,Miotic Pupils,2
+200,Central Nervous System,Eye,Pupil Abnormalities,Narrow Pupils,1
+201,Central Nervous System,Eye,Reflex and Movement Abnormalities,Abnoramal bilateral light reflex,5
+202,Central Nervous System,Eye,Reflex and Movement Abnormalities,Abnormal eye deviations,6
+203,Central Nervous System,Eye,Reflex and Movement Abnormalities,Doll's Eyes Movements,1
+204,Central Nervous System,Eye,Reflex and Movement Abnormalities,Ophthalmoparesis / Ophthalmoplegia,2
+205,Central Nervous System,Eye,Reflex and Movement Abnormalities,"Rapid, uncontrollable eye movement (Nystagmus)",7
+206,Central Nervous System,Eye,Reflex and Movement Abnormalities,Sluggish / no pupil reflex,8
+207,Central Nervous System,Eye,Vision Disturbances,Blurred vision,8
+208,Central Nervous System,Eye,Vision Disturbances,"Double vision
+(Diplopia)",1
+209,Central Nervous System,General,General,Acute encephalopathy,14
+210,Central Nervous System,General,General,Diffuse central nervous system disturbance,2
+211,Central Nervous System,General,General,Dizziness / Lightheadedness / Vertigo,69
+212,Central Nervous System,General,General,"Excessive thirst sensation
+(Polydipsia)",7
+213,Central Nervous System,General,General,Headache,33
+214,Central Nervous System,Spinal cord,Spinal fluid,Lymphocytic Pleiocytosis,3
+215,Central Nervous System,Spinal cord,Spinal fluid,Xanthoohromia,1
+216,Digestive System,Gall Bladder,Inflammatory Symptoms,Biliary peritonitis,1
+217,Digestive System,Liver,Biliary and Cholestatic Changes,Cholestasis,4
+218,Digestive System,Liver,Biliary and Cholestatic Changes,Focal bile inclusions,1
+219,Digestive System,Liver,Biliary and Cholestatic Changes,Intrahepatic cholestasis,2
+220,Digestive System,Liver,Clinical Manisfestations,Hepatic encelopathy,4
+221,Digestive System,Liver,Clinical Manisfestations,Jaundice,3
+222,Digestive System,Liver,Inflammatory and Necrotic Processes,Accumulation of inflammatory cells,2
+223,Digestive System,Liver,Inflammatory and Necrotic Processes,Centrilobular congestion,1
+224,Digestive System,Liver,Inflammatory and Necrotic Processes,Centrilobular necrosis,6
+225,Digestive System,Liver,Inflammatory and Necrotic Processes,"Centrizonal
+Necrosis",9
+226,Digestive System,Liver,Inflammatory and Necrotic Processes,Parenchymal collapse and necrosis,1
+227,Digestive System,Liver,Liver Dysfunction and Disease,Acute liver dysfunction,190
+228,Digestive System,Liver,Liver Dysfunction and Disease,Deranged Liver Function,1
+229,Digestive System,Liver,Liver Dysfunction and Disease,Elevated AST,158
+230,Digestive System,Liver,Liver Dysfunction and Disease,Elevated Albumin,4
+231,Digestive System,Liver,Liver Dysfunction and Disease,Elevated Amylase,6
+232,Digestive System,Liver,Liver Dysfunction and Disease,Elevated LDH,69
+233,Digestive System,Liver,Liver Dysfunction and Disease,Hyperbilirubinemia,20
+234,Digestive System,Liver,Liver Dysfunction and Disease,Low Albumin,5
+235,Digestive System,Liver,Metabolic Changes,Hemosiderosis,1
+236,Digestive System,Liver,Metabolic Changes,Hepatic Steatosis,1
+237,Digestive System,Liver,Metabolic Changes,Liver sinusoids congestion,2
+238,Digestive System,Liver,Structural Changes,Hepatomegaly,1
+239,Digestive System,Liver Biomarkers,Metabolics and Others,Fatty change,1
+240,Digestive System,"Stomach, small intestine and large intestine",Abdominal Discomfort,Abdominal pain / tenderness,11
+241,Digestive System,"Stomach, small intestine and large intestine",Abdominal Discomfort,Ascites,3
+242,Digestive System,"Stomach, small intestine and large intestine",Abdominal Discomfort,Peritoneal infiltrate,1
+243,Digestive System,"Stomach, small intestine and large intestine",Bowel Conditions,Bowel Ischemia,3
+244,Digestive System,"Stomach, small intestine and large intestine",Bowel Conditions,Diarrhea,40
+245,Digestive System,"Stomach, small intestine and large intestine",Bowel Conditions,Hematest-positive loose stool,4
+246,Digestive System,"Stomach, small intestine and large intestine",Bowel and Intestinal Conditions,Abdominal distension,2
+247,Digestive System,"Stomach, small intestine and large intestine",Bowel and Intestinal Conditions,Bowel Obstruction,1
+248,Digestive System,"Stomach, small intestine and large intestine",Bowel and Intestinal Conditions,Colonic distension,1
+249,Digestive System,"Stomach, small intestine and large intestine",Bowel and Intestinal Conditions,Decreased bowel sound,1
+250,Digestive System,"Stomach, small intestine and large intestine",Bowel and Intestinal Conditions,Dilated bowel loops,1
+251,Digestive System,"Stomach, small intestine and large intestine",Bowel and Intestinal Conditions,Pelvic / Abdominal Effusion,1
+252,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal Structural Changes,Colon perforation,1
+253,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal Structural Changes,Gastric mucosa congestion,1
+254,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal Structural Changes,Gastrointestinal swelling / edema,4
+255,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal Structural Changes,Lesion,1
+256,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal bleeding,Gastric mucosa hemorrhage,1
+257,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal bleeding,Gastrointestinal bleeding,8
+258,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal bleeding,Gastrointestinal hemorrhage,14
+259,Digestive System,"Stomach, small intestine and large intestine",Gastrointestinal bleeding,Mesenteric Hemorrhage,4
+260,Digestive System,"Stomach, small intestine and large intestine",Nausea and Vomitting Symptoms,Coffee-ground emesis,1
+261,Digestive System,"Stomach, small intestine and large intestine",Nausea and Vomitting Symptoms,Heaves,1
+262,Digestive System,"Stomach, small intestine and large intestine",Nausea and Vomitting Symptoms,Nausea,52
+263,Digestive System,"Stomach, small intestine and large intestine",Nausea and Vomitting Symptoms,Vomitting,76
+264,Digestive System,"Stomach, small intestine and large intestine",Oral and Mucosal Symptoms,Blood in mouth,4
+265,Digestive System,"Stomach, small intestine and large intestine",Oral and Mucosal Symptoms,Bubbly saliva,1
+266,Digestive System,"Stomach, small intestine and large intestine",Oral and Mucosal Symptoms,Dry oral mucosa,6
+267,Endocrine System,Adrenal gland,Adrenal gland,Adrenal Congestion,5
+268,Endocrine System,Adrenal gland,Adrenal gland,Adrenal Necrosis,1
+269,Endocrine System,Adrenal gland,Adrenal gland,Adrenal dysfunction,10
+270,Endocrine System,Adrenal gland,Adrenal gland,Adrenal hemorrhage,2
+271,Endocrine System,Adrenal gland,Adrenal gland,Adrenocortical atrophy,1
+272,Endocrine System,Pancreas,Pancreas,Acute pancreatitis,6
+273,Endocrine System,Pancreas,Pancreas,Disrupted peripancreatic fat planes,1
+274,Endocrine System,Pancreas,Pancreas,Necrotising pancreatitis,1
+275,Endocrine System,Thyroid gland,Hormonal,Autoimmune thyroid condition,1
+276,Endocrine System,Thyroid gland,Hormonal,Hyperthyroidism,1
+277,Endocrine System,Thyroid gland,Hormonal,Hypothyroidism,1
+278,Hydration,Hydration,Hydration,Dehydration,56
+279,Hydration,Hydration,Hydration,Overhydration,1
+280,"Integumentary System (hair, skin, nails, glands)",Skin,Cool and Dry,Cool skin,7
+281,"Integumentary System (hair, skin, nails, glands)",Skin,Cool and Dry,Dry,36
+282,"Integumentary System (hair, skin, nails, glands)",Skin,Sensations,Chills / Shivering,6
+283,"Integumentary System (hair, skin, nails, glands)",Skin,Sensations,Feeling hot / Overheating,4
+284,"Integumentary System (hair, skin, nails, glands)",Skin,Sensations,Impaired thermal sensation,3
+285,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Cyanosis,19
+286,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Epidermis Necrosis,1
+287,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Erythema,2
+288,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Eschar,2
+289,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Flushed (Red),5
+290,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Icteric / Jaundice,12
+291,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Marked bruising / Ecchymosis,3
+292,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Mottled skin,2
+293,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Pale,16
+294,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Petechial Rash,2
+295,"Integumentary System (hair, skin, nails, glands)",Skin,Skin surface presentations,Poor skin turgor,1
+296,"Integumentary System (hair, skin, nails, glands)",Skin,Skin swelling,Diffuse nondependent skin edema,1
+297,"Integumentary System (hair, skin, nails, glands)",Skin,Skin swelling,Subcutaneous edema,1
+298,"Integumentary System (hair, skin, nails, glands)",Skin,Warm and Wet,Hot / Warm skin,35
+299,"Integumentary System (hair, skin, nails, glands)",Skin,Warm and Wet,Hyperthermia,98
+300,"Integumentary System (hair, skin, nails, glands)",Skin,Warm and Wet,Sweating,104
+301,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Immunoglobulins (Antibodies),Immunoglobulins (Antibodies),Serum Immunoglobin G,1
+302,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Lymphatic vessles,Immune System,Anasarca,1
+303,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Lymphatic vessles,Immune System,Hypercytokinemia,1
+304,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Lymphatic vessles,Immune System,Immune / Inflammatory response,28
+305,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Lymphatic vessles,Immune System,Sepsis,4
+306,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Lymphatic vessles,Immune System,Toxemia,1
+307,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Lymphatic vessles,Immune System,Vascular invasion,1
+308,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Spleen,Spleen Structural Changes,Hepatosplenomegaly,1
+309,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Spleen,Spleen Structural Changes,Splenic Congestion,11
+310,"Lymphatic System (Thymus, Lymph nodes, Spleen, Lymphatic vessels)",Spleen,Spleen Structural Changes,Splenomegaly,1
+311,Muscular System,Muscular System,Conditions of the Muscular System,Absent / diminished plantar reflex,3
+312,Muscular System,Muscular System,Conditions of the Muscular System,Avascular Musculature,2
+313,Muscular System,Muscular System,Conditions of the Muscular System,Calcification,1
+314,Muscular System,Muscular System,Conditions of the Muscular System,Compartment Syndrome,5
+315,Muscular System,Muscular System,Conditions of the Muscular System,Diminished deep tendon reflex,5
+316,Muscular System,Muscular System,Conditions of the Muscular System,Elevated Aldolase,3
+317,Muscular System,Muscular System,Conditions of the Muscular System,Facial &  Bulbar Palsy,2
+318,Muscular System,Muscular System,Conditions of the Muscular System,Muscle damage,160
+319,Muscular System,Muscular System,Conditions of the Muscular System,Myonecrosis,1
+320,Muscular System,Muscular System,Conditions of the Muscular System,Rhabdomyolysis,111
+321,Muscular System,Muscular System,Hyperkinetic disorders,Clonus,1
+322,Muscular System,Muscular System,Hyperkinetic disorders,Cramp,52
+323,Muscular System,Muscular System,Hyperkinetic disorders,Decerebrate rigidity,1
+324,Muscular System,Muscular System,Hyperkinetic disorders,Dystonia,66
+325,Muscular System,Muscular System,Hyperkinetic disorders,Muscle spasm,5
+326,Muscular System,Muscular System,Hyperkinetic disorders,Opisthotonus,1
+327,Muscular System,Muscular System,Hyperkinetic disorders,Parkinsonoid symptoms (rigor and tremor),8
+328,Muscular System,Muscular System,Muscle Tone,Decerebrate posture,1
+329,Muscular System,Muscular System,Muscle Tone,Hypertonic (unspecified),4
+330,Muscular System,Muscular System,Muscle Tone,Hypotonic,7
+331,Muscular System,Muscular System,Muscle Tone,Muscle Rigidity,4
+332,Muscular System,Muscular System,Symptom Pesentation,Muscle Edema / Swelling,9
+333,Muscular System,Muscular System,Symptom Pesentation,Muscle pain / Myalgia,10
+334,Muscular System,Muscular System,Symptom Pesentation,Numbness,3
+335,Muscular System,Muscular System,Symptom Pesentation,Tenderness,9
+336,Muscular System,Muscular System,Weakness,Paralysis,3
+337,Muscular System,Muscular System,Weakness,Weakness / Paresis(Quad & hemi),35
+338,Others,Nose + Ear,Bacteria,C. jejuni,1
+339,Others,Nose + Ear,Bacteria,"Enterobacter
+cloacae",1
+340,Others,Nose + Ear,Bacteria,Gram-negative bacili,1
+341,Others,Nose + Ear,Bacteria,Gram-positive cocci,2
+342,Others,Nose + Ear,Bacteria,Klebsiella-pneumoniae (blood culture),1
+343,Others,Nose + Ear,Bacteria,Rhizopus species,1
+344,Others,Nose + Ear,Bacteria,Scrub typhus,1
+345,Others,Nose + Ear,Bacteria,Staphylococcal,2
+346,Others,Nose + Ear,Fungi,Fusarium Oxysporum,1
+347,Others,Nose + Ear,Fungi,Non-septate fungal hyphae,1
+348,Others,Nose + Ear,Hormonal,Priapism,1
+349,Others,Nose + Ear,Nose + Ear,Epistaxis / Nosebleed,4
+350,Others,Nose + Ear,Nose + Ear,Maxillary sinus disease,1
+351,Others,Nose + Ear,Nose + Ear,Parotid gland inflammation / Parotitis,1
+352,Respiratory System,Lungs,Abnormal breathing patterns,Apnea,2
+353,Respiratory System,Lungs,Abnormal breathing patterns,Bradypnea,2
+354,Respiratory System,Lungs,Abnormal breathing patterns,Breathlessness / Dyspnea,33
+355,Respiratory System,Lungs,Abnormal breathing patterns,Hyperventilation / Tachypnea,83
+356,Respiratory System,Lungs,Abnormal breathing patterns,Hypoventilation / Bradypnea,1
+357,Respiratory System,Lungs,Abnormal breathing patterns,Laboured breathing,6
+358,Respiratory System,Lungs,Abnormal breathing patterns,Respiratory arrest,2
+359,Respiratory System,Lungs,Abnormal breathing patterns,Spontaneous Respiration,2
+360,Respiratory System,Lungs,Abnormal sound in lungs,Inspiratory crepitations,3
+361,Respiratory System,Lungs,Abnormal sound in lungs,Noisy respiration,3
+362,Respiratory System,Lungs,Abnormal sound in lungs,Ronchi,1
+363,Respiratory System,Lungs,Bleeding in the Lungs,Diaphragmatic Hemorrhage,1
+364,Respiratory System,Lungs,Bleeding in the Lungs,Fibrin microthrombi,1
+365,Respiratory System,Lungs,Bleeding in the Lungs,Intra-alveolar hemorrhage,3
+366,Respiratory System,Lungs,Bleeding in the Lungs,Mucosal Hemorrhage,1
+367,Respiratory System,Lungs,Bleeding in the Lungs,Pleural Hemorrhage / Hemothorax,6
+368,Respiratory System,Lungs,Bleeding in the Lungs,Pulmonary Hemorrhage,18
+369,Respiratory System,Lungs,Fluid build-up in respiratory system,Acute Respiratory Distress Syndrome (ARDS),10
+370,Respiratory System,Lungs,Fluid build-up in respiratory system,Ascites (lung),2
+371,Respiratory System,Lungs,Fluid build-up in respiratory system,Aspiration Pneumonia,5
+372,Respiratory System,Lungs,Fluid build-up in respiratory system,Hydrothorax,2
+373,Respiratory System,Lungs,Fluid build-up in respiratory system,Infiltrates,5
+374,Respiratory System,Lungs,Fluid build-up in respiratory system,Interstitial Edema,1
+375,Respiratory System,Lungs,Fluid build-up in respiratory system,Pleural effusions,4
+376,Respiratory System,Lungs,Fluid build-up in respiratory system,Pneumonia,3
+377,Respiratory System,Lungs,Fluid build-up in respiratory system,Pulmonary Edema,22
+378,Respiratory System,Lungs,Inflammation,Bronchopneumonia,5
+379,Respiratory System,Lungs,Inflammation,Pneumonitis,1
+380,Respiratory System,Lungs,Low oxygen levels,Hypoxemic,1
+381,Respiratory System,Lungs,Low oxygen levels,Hypoxic respiratory failure,9
+382,Respiratory System,Lungs,Low oxygen levels,Respiratory insufficiency,9
+383,Respiratory System,Lungs,Lung collapse,Atelectasis,2
+384,Respiratory System,Lungs,Lung collapse,Pneumothorax,2
+385,Respiratory System,Lungs,Others,Aspiration of vomitus,2
+386,Respiratory System,Lungs,Others,Diaphragm Aecrosis,1
+387,Respiratory System,Lungs,Others,Pulmonary Aspergillosis,1
+388,Respiratory System,Lungs,Others,Pulmonary Infarction,1
+389,Respiratory System,Nasal passage,Nasal passage,Sinus infection,1
+390,Respiratory System,Trachea,Trachea,Tracheobronchitis,1
+391,Urinary System,Kidney,Abnormal renal filtration,Azotemia,5
+392,Urinary System,Kidney,Abnormal renal filtration,Hypercalcaemia,22
+393,Urinary System,Kidney,Abnormal renal filtration,Hyperchloremia,11
+394,Urinary System,Kidney,Abnormal renal filtration,Hyperkalemia,32
+395,Urinary System,Kidney,Abnormal renal filtration,Hypermagnesmia,2
+396,Urinary System,Kidney,Abnormal renal filtration,Hypernatremia,24
+397,Urinary System,Kidney,Abnormal renal filtration,Hyperphosphataemia,6
+398,Urinary System,Kidney,Abnormal renal filtration,Hypocalcaemia,12
+399,Urinary System,Kidney,Abnormal renal filtration,Hypocalcemia,7
+400,Urinary System,Kidney,Abnormal renal filtration,Hypochloremia,7
+401,Urinary System,Kidney,Abnormal renal filtration,Hypokalemia,32
+402,Urinary System,Kidney,Abnormal renal filtration,Hypomagnesemia,3
+403,Urinary System,Kidney,Abnormal renal filtration,Hyponatremia,35
+404,Urinary System,Kidney,Abnormal renal filtration,Hypophosphatemia,14
+405,Urinary System,Kidney,Abnormal renal filtration,Lactic Acidosis,27
+406,Urinary System,Kidney,Abnormal renal filtration,Metabolic Acidosis,87
+407,Urinary System,Kidney,Abnormal renal filtration,Metabolic Alkalosis,3
+408,Urinary System,Kidney,Abnormal renal filtration,Pseudohypercalcaemia,3
+409,Urinary System,Kidney,Abnormal renal filtration,Renal edema,2
+410,Urinary System,Kidney,Abnormal urine output,Anuria,20
+411,Urinary System,Kidney,Abnormal urine output,Diuresis,5
+412,Urinary System,Kidney,Abnormal urine output,Oliguria,20
+413,Urinary System,Kidney,Renal injury,Acute renal injury / dysfunction,235
+414,Urinary System,Kidney,Renal injury,Acute tubular necrosis,20
+415,Urinary System,Kidney,Renal injury,Intraglomerular / Renal  Fibrin Thrombi,3
+416,Urinary System,Kidney,Renal injury,Renal Thrombi,7
+417,Urinary System,Kidney,Renal injury,Renal congestion,2
+418,Urinary System,Kidney,Renal injury,Renal hemorrhage,12
+419,Urinary System,Kidney,Substance in urine,Albuminuria,7
+420,Urinary System,Kidney,Substance in urine,Concentrated Urine,10
+421,Urinary System,Kidney,Substance in urine,Hematuria,8
+422,Urinary System,Kidney,Substance in urine,Hemoglobinuria,18
+423,Urinary System,Kidney,Substance in urine,Ketonuria,1
+424,Urinary System,Kidney,Substance in urine,Leukocyturia,1
+425,Urinary System,Kidney,Substance in urine,Myoglobinuria,10
+426,Urinary System,Kidney,Substance in urine,Presence of bilirubin in urine,1
+427,Urinary System,Kidney,Substance in urine,Presence of urobilinogen in urine,1
+428,Urinary System,Kidney,Substance in urine,Proteinuria,35
+429,Urinary System,Urinary bladder,Urinary bladder,Incontinent,6
